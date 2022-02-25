@@ -1,0 +1,442 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The devil turn'd casuist, or, The cheats of Rome laid open in the exorcism of a despairing devil, at the house of Thomas Pennington in Orrel in the parish of Wigan and county of Lancaster / by Zachary Taylor ...</title>
+            <author>Taylor, Zachary, 1653-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64269</idno>
+            <idno type="STC">Wing T595A</idno>
+            <idno type="STC">ESTC R39717</idno>
+            <idno type="EEBO-CITATION">18476667</idno>
+            <idno type="OCLC">ocm 18476667</idno>
+            <idno type="VID">107803</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64269)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107803)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1644:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The devil turn'd casuist, or, The cheats of Rome laid open in the exorcism of a despairing devil, at the house of Thomas Pennington in Orrel in the parish of Wigan and county of Lancaster / by Zachary Taylor ...</title>
+                  <author>Taylor, Zachary, 1653-1705.</author>
+               </titleStmt>
+               <extent>[14], 15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Prnited [sic] for Peter Buck ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Anti-Catholicism --  England --  17th century.</term>
+               <term>Exorcism --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107803:1"/>
+            <pb facs="tcp:107803:1" rendition="simple:additions"/>
+            <p>THE DEVIL TURN'D CASUIST OR THE Cheats of ROME Laid open, in the Exorciſm of a Deſpairing DEVIL, At the Houſe of <hi>Thomas Pennington</hi> in <hi>Orrel</hi> in the Pariſh of <hi>Wigan</hi> and County of <hi>Lancaſter.</hi>
+            </p>
+            <p>By <hi>Zachary Taylor,</hi> M. A. Chaplin to the right reverend Father in God, <hi>Nicholas</hi> Lord Biſhop of <hi>Cheſter,</hi> and Rector of <hi>Wigan.</hi>
+            </p>
+            <p>
+               <hi>Spectatum admiſſi! Riſum teneatis,</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Prnited for <hi>Peter Buck,</hi> near the <hi>Middle-Temple Gate</hi> in <hi>Fleet-ſtreet,</hi> 1696.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:107803:2"/>
+            <pb facs="tcp:107803:2"/>
+            <head>To the Right Reverend Father in God NICHOLAS Lord Biſhop of <hi>CHESTER.</hi>
+            </head>
+            <opener>
+               <salute>My truly Honoured Lord,</salute>
+            </opener>
+            <p>WHereas Dedications are generally intended to Expreſs the Editors Acknowledgement unto the Patron that he doth Addreſs, yet this muſt beg your Lordſhips pardon for Prefixing your name to a Tranſaction that may ſeem too Light for the gravity of your Function to be intereſted in. But beſides the Preſumption on your Lord<g ref="char:EOLhyphen"/>ſhips Condeſcention, the Reaſons moving me thereunto were theſe.</p>
+            <p>Your Lordſhip as a Father in the Church, muſt needs be concerned for the Religion of it; and it is a matter of Religion (altho ſhe, and her Author be the Greateſt Sufferers by it) that is here pretended. Now as we teach our Children to know Good Coin by acquainting them with what is Counter<g ref="char:EOLhyphen"/>feit; ſo there is no better way to Ground weak perſons in the full Aſſurance of Divine Truths, than by Diſcovering to them the Juggles of Superſtitious Bigots: for God having ſettled All, and Every Article of the Chriſtian Faith, on the Veracity of his own <g ref="char:V">Ʋ</g>nerring Word, and the Evidence of <g ref="char:V">Ʋ</g>n<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>eſted Miracles, there can be no Greater Argument of the Helliſh Vil<g ref="char:EOLhyphen"/>lany, as well as Crafty Knavery of thoſe that Tack and Super add any thing thereto, th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n in Contradiſtinction to Gods word and works, to have them Build the ſame, on the Fanaticiſm of <g ref="char:V">Ʋ</g>nwritten Tradition, and the Sophiſtry
+<pb facs="tcp:107803:3"/>of Lying Wonders. For, My Lord, what Opinion muſt any ſober Perſon <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of that Church, who <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndeavours to Prove the Truth, and Con<g ref="char:EOLhyphen"/>firm her Members in the Belief of the Fundamentals that ſhe coin'd at <hi>Conſtance</hi> and at <hi>Trent</hi> from the Teſtimony of the Father of Lyes, and one whom in her Exorciſms ſhe labours what ſhe can, to perſwade the Aſſembly, that he is indeed the Devil. This ſeems to me an Infatuation of that Size, that I cannot apprehend it to be any thing elſe, but that very Judgment that God hath Threatned to Deliver ſuch Artificers up to. <hi>2</hi> Theſ <hi>2.11.</hi>
+            </p>
+            <p>Your Lordſhip will meet with a deplorable Inſtance of this in the Follow<g ref="char:EOLhyphen"/>ing Pages, where if you find any thing that ſhews an Air Lighter than theſe preſent Lines, it is becauſe the Subject will endure no other, and <hi>Solomon</hi> muſt Apologize for me, who hath made it a Rule, <hi>To Anſwer a Fool ac<g ref="char:EOLhyphen"/>cording to his Folly.</hi>
+            </p>
+            <p>Anoth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Inducement to me was the Scene's being Acted in your Lord<g ref="char:EOLhyphen"/>ſhips <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſh, and the Great Truſt you have been pleas'd to Commit to me there, doth require that I ſhould be Accountable to your Lordſhip for all Affairs of ſuch a nature as this is, as you are the Rector of the Pariſh, as well as the Ordinary of the Dioceſs.</p>
+            <p>But that which to me is none of the leaſt, is what relates unto the Reader; he is here to meet with ſuch a Medley of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>opperies, as will be hard to be<g ref="char:EOLhyphen"/>lieve that any who call themſelves Chriſtians ſhould be Guilty of; for the Prieſts have ſo far over-acted each part of the Play, that the plan Relation of it will appear more like Burleſque, than Narrative. It was neceſſary therefore that I ſhould Court your Lordſhips Patronage, that the Reader when he meets with all ſuch paſſages, may be convinced of the Rea<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y of the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Whilſt he muſt conclude, that I durſt not preſume to Abuſe your Lordſhips Name, by Prefixing it to what was only my own Invention: and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> having plenty of Witneſſes (for the Proteſtants were Frankly invited <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e-Show, in hopes of a Good Harveſt, as the Narrative will inform <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) I have been carefull to Aſſert Nothing, but what I have <g ref="char:V">Ʋ</g>ndeniable <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> of, and what hath been twice read over to thoſe that gave me thy <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Operation. Several Paſſages, where I had not a Plura<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ty of Concurring <g ref="char:V">Ʋ</g>oices, I have deſignedly left out, that the reſt might be <g ref="char:V">Ʋ</g>nexcep<gap reason="illegible" resp="#UOM" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>le. For inſtance, <hi>When a Perſon whom they were afraid of loſeing, came into the Room; the Demoniack ſeem'd to Laugh, and the Prieſt ask'd him why he was ſo pleaſant, to which he replied, he could not but Laugh to think, If that ſhe turned to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er Husbands Religion; She muſt certainly be his;</hi> the Reſt not ta<g ref="char:EOLhyphen"/>king notice of this paſſage, I have omitted it. The Prieſt alſo amongſt on other Qu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>se<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would needs know, <hi>Whether Proteſtants were not
+<pb facs="tcp:107803:3"/>Damned? Which the Devil</hi> (that is the Title, and Language they gave the Demoniack, and therefore I muſt uſe it) <hi>wiſhing no doubt but that they all might, avouched that they were; this ſeveral will aver, but becauſe the Prieſt I hear denies it, and thereby intimates as if he had ſome Charity left for Poor Proteſtants, I am willing by way of Return to his Civility, to paſs it by, with ſome others.</hi>
+            </p>
+            <p>I know of what moment it is in order to ſatisfaction in matters of this na<g ref="char:EOLhyphen"/>ture, to direct the Reader perſonally to the Deponerts themſelves, that by ſome Friend or other he may inquire of it from their Mouths; I therefore once had deſign<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to have affixed to the Relation the names of thoſe that gave me this account, but conſidering what manner of Spirit the Romiſh Zealots, their neighbours are of, I ſiffered my ſelf to be diſſwaded from it: but if Curioſity on the one hand, or Scepticiſm on the other, lead any to be Inquiſitive after it, the Circumſtances of time and Place, when and where the Game was acted, the names of the Parties concerned, together with the Managers of it, will direct him where he may find ampleſatisfaction.</p>
+            <p>As for the order of it, I have methodized it according to the Rules of their Proceedings at Exorciſms; but I do not pretend to be reſponſible for the place that every paſſage is ranked in: for in ſo tedious a Proceſs as this was, it muſt be above the Capacity of mean Perſons to charge their Me<g ref="char:EOLhyphen"/>mory with every Punctilio. It is difficient that there is Truth, as to matter of Fact; it is not at all neceſſary that there ſhould be the Juncto's of exact order in the relation of it.</p>
+            <p>What the Papiſts deſign was in this Exploit is eaſily unſolded, <hi>we are not Ignorant</hi> of there <hi>Devices</hi> nor the Artificies they make uſe of to cajoſe ſimple well meaning people to their Party. It is not the firſt time, nor I ſear like to be the Laſt, that they have had to do with the Devil on this ſcore; only according to Circumſtances they play a different game, and turn the Tables as obcaſion offers. Sometimes they chance to ſtumble on the opportunity of a natural Diſeaſe, and that is their Great Advantage, for Phyſical operati<g ref="char:EOLhyphen"/>ons are not wanting to be aſcribed to a miraculous Energy. But generally the whole buſineſs is Intrigue, Colluſion, and Combination. I might produce inſtances of both ſorts of theſe their practices from learned Authors. The Moſt Reverend his Grace of <hi>Canterbury,</hi> in his Excellent Diſcourſe of Idolatry, takes notice of the vertues of the Antimonial Cap, and what uſe they make of it to promote their holy Cheats: The Right Reverend the Biſhop of <hi>Worceſter</hi> and others ſupply us with inſtances of the Latter kind. But I will confine my ſelf to your Lordſhips Dioceſs, becauſe I meet in Our Neighbourhood with freſh Examples of both kinds, which as they are new, ſo perhaps will not be unacceptable to the Reader. For the firſt, be pleas'd
+<pb facs="tcp:107803:4"/>to take the account as I had it in a Letter from my Reverend Brother and Weighbour, which is as followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>Walton, <date>April 9th. 96.</date>
+                     </dateline>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THe Oldneſs of the Fact whereof you call for a Narrative may excuſe my not giving it in all the requiſite Particulars. Many of them are ſlipt out of my memory, and the rather becauſe I was leſs careful to imprint them there, as not dreaming I ſhould after ſo long a time, be occa<g ref="char:EOLhyphen"/>ſion'd to give an account of them. About twenty years ago, a Son of Mr. <hi>Crook's</hi> near <hi>Lealand,</hi> Aged about twelve years, was ſeized with ſo un<g ref="char:EOLhyphen"/>wonted a Diſtemper, that our Country-Gentlemen and Clergy, and ſome o<g ref="char:EOLhyphen"/>thers that had Skill in Phiſick, knew not what to make of it. Some few did conceive it might be a Natural Diſtemper; the Papiſts generally de<g ref="char:EOLhyphen"/>clared him to be Poſſeſt by an Evil ſpirit, which too eaſily catch't the belief of moſt of his Proteſtant Neighbours; Some concluded him to be hurt by an Evil Tongue; others thought, becauſe his Step mother was a Papiſt, that the whole was a Counterfeit, acted to gain advantage to the Roman Intereſt in thoſe parts; The notorious juggling Tricks in this kind, ſome Romiſh Prieſts had plaid in all the parts in Chriſtendom (whereof the moſt ingenious per<g ref="char:EOLhyphen"/>ſons of that Communion will Complain together with me) gave ſome wiſer heads this ſuſpicion. But the General Opinion, I ſay, was, that it was a Poſ<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> and according! both his hopiſh and Proteſtant Friends make ſome I <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to caſe the Evil ſpirit out of the Lad. Firſt he was taken into <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Mr. <hi>Hughſon</hi> a Popiſh Prieſt at Madam <hi>Weſtbey's</hi> houſe <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> near <hi>Lealand,</hi> but not with no relief there. Afterwards the (then) <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of <hi>Croſſon</hi> (the Boys God-father, as I remember) ſent for him to his houſ where for ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e time he ſhew'd him ſome ineffectual Tokens of his de<g ref="char:EOLhyphen"/>ſire to rid him of the reputed Fiend. All this was reported in many places of our County, and truth ſupported the Report: but other things were told with the ſame confidence, for which there was no ground, as that the Boy could t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll in his Fits what was adoing in places far diſtant from him, whereof he could have no information by his Sences, nor by any other ordinary means of
+<pb facs="tcp:107803:4"/>Conveyance; that he could call perſons he had never ſeen before, by their Names <hi>&amp;c.</hi> However, his caſe had ſo puzled the Heads of ſeveral Pariſhes, that they knew not what to ſay of him, nor what to offer in order to his Help. At laſt it was reſolved (I know not certainly why) to deſire me to ride to <hi>Croſton,</hi> and on a ſet day to take a view of the ſaid Demoniack, where I ſhould be met by ſeveral Gentlemen and Clergy-men. A Letter came to that purpoſe, in obedience to which I went the Evening before the Appointed time and Lodged at the Parſonage of <hi>Eccleſton,</hi> hoping to be time enough at <hi>Croſton</hi> next morning to ſee the Boy in his <hi>3.</hi> Fits; for ſo many he had every morning, with a competent interval between each of them. But not riſing ſo early as I had intended, One of his Fits was over when I came to <hi>Croſton,</hi> which accident troubled my mind, as it did theirs whom I found expecting me. However, I reſolved to make the beſt of what was to come. I immediately called the Boy to me and askt him how he did! Who anſwered, I'm very well. I view'd his eye, which was good and lively; and his complexion, which was clear and ſweet. I felt his pulſe, which had loſt but very little of its natural order, Then I fell in talk with the Gentlemen, wiſhing my ſervice might anſwer their care, and my Riding ſo many miles. I confeſs't to them, I had in my Travels viewed not a few Tables of pretended. Miracles hung up in Popiſh Churches, and ſo far Examined ſome of their Contents, as to find <hi>That all is not Gold that Gliſters.</hi> I added, I hoped not to find it difficult to Judge, whether the Diſtemper was true or counterfeit: and that I might perhaps diſtinguiſh whether it was Natural or Diabolical. But out of this Chat was I call'd with a cry, He is beginning on another Fit. I ſtept to him, and ſaw his Eyes (prettily brown, naturally) appear Glaſsy and much diſturbed: his head made a large ſwim from one ſhoulder to the other: he curs'd and ſwore beat the air with his arms; and afterwards let his head fall very Low up<g ref="char:EOLhyphen"/>on his breaſt, at which time he ſeem'd to ſpeak with another voice, miſtaken by ſome preſent for the voice of the Devil. A little after, all his powers, decayed and he was for ſome time left both without ſence and motion. But after a ſmall ſtay under this <hi>Deliquium,</hi> he recovered by degrees, and ſpit a good quantity of fleam amongſt thoſe about him. Pleaſe to note, that at the firſt throws and diſtortions of his body, I caus'd him to be held faſt in a chair, and kept my finger over his pulſe the whole time of his Fit, and found it decline and alſo recover in true proportion with the judgement the eye made upon the ſurface of his body. The third Fit was in all things like the other, in which I attended the workings and way of his body, and watched his pulſe, as before. In this indeed (which I did not in the ore<g ref="char:EOLhyphen"/>going Fit) I ask't him a queſtion in order to confute the report ſprea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb facs="tcp:107803:5"/>that he knew ſtrangers, and could call them by their names at their firſt ap<g ref="char:EOLhyphen"/>perance, I ask't him, when he began to ſpeak with a varied (which ſome thought a Devils voice) Friend Who am I? He anſwered, Dam thee, Th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> art Thon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſon. <g ref="char:V">Ʋ</g>pon this I ſaid to the Company, Gentlemen, this is a dull Devil that cannot diſtinguiſh the <g ref="char:V">Ʋ</g>icar of <hi>Walton</hi> from the Curate of <hi>Rufford.</hi> Thus far of the way or manner of his Fits.</p>
+                  <p>Now did the Gentlemen ask my opinion of the Boys caſe, which I readily gave to this ſence. <hi>1.</hi> That it was a Real Diſtemper, and not put on; of which his pulſe had given me ſufficient aſſurance. <hi>2.</hi> That it was a natural Diſtemper, which I collected from the gradual declining and Recovery of his pulſe, and the no-ſymptoms of a poſſeſſion by an Evil Spirit. <hi>3.</hi> That the nature of his diſtemper was Epileptick, which in the cloſure of the Fit de<g ref="char:EOLhyphen"/>prived him of ſence and motion: and I obſerved that nature in its ſtrugle with the Diſtemper had wrought down the ſtrong and clammy Fleam into the mouth which had ſtop't the paſſage of the ſpirits and thereby reduced him to a ſeeming death; upon which he immediately recovered. But notwith<g ref="char:EOLhyphen"/>ſtanding what I had ſaid, ſeveral of our company, and particularly Mr. <hi>Crook</hi> the Boys Father, would ſtill have it a poſſeſſion. And they put queſtions to me; which they thought would exact ſuch anſwers, as muſt be ſavourable to their opinion. It was ask't me <hi>How he came to curſe and ſwear in his Fits, whoſe mouth had never offered to frame an oath in his health?</hi> It was caſe to anſwer, How ready Satan is to blind and confound the Idea's of a ſick mans mind, and to inject ſomething of his own which is utterly diſagreeable to the ſick perſons habits. I had ſeen the like when excellent men had been delirious in Feavers, But yet this amounted not to a poſſeſſion.</p>
+                  <p>It was ask't me, <hi>How he came to ſpeak with another voice?</hi> It was eaſy to anſwer, He let his head fall low upon his breaſt, which unnatural poſture together with the ſtricture of his collar, did occaſion it. It was askt, <hi>Why at his coming out of his Fit he ſhould ſo keenly ſpit at all about him?</hi> It was caſe to anſwer, That as he began the Fit with the ſwiming of his head ſeveral times from one ſhoulder to another, ſo he began to ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ew his Recovery that way, and before he was well come to himſelf he ſpit out among them that tough flegmatick humour that was wrought down into his mouth; and ſo it was an <hi>Animal</hi> action and no <hi>deſigned</hi> one. But notwithſtanding theſe anſwers given, Old Mr. <hi>Crook</hi> and ſome beſides him, held to their opinion, That the Boy was a Demoniack. I had then nothing to do but confidently to oppoſe my Opinion to theirs; and to back this with ſome Grateful Adventure, I told Mr. <hi>Crook</hi> I was ſo ſure that his Sons Diſtemper was a curable Epilepſy, that if he would ſend him to a Phyſi<g ref="char:EOLhyphen"/>cian
+<pb facs="tcp:107803:5"/>of my naming, I would oblige my ſelf before all the preſent worthy com<g ref="char:EOLhyphen"/>pany, to bear half of the Charges he ſhould be at in his compliance with my deſires, in caſe his ſon ſhould return home uncured. This argument took, and the Father according to my direction brought his ſon to my Wiſe and Worthy Friend Dr. <hi>Richmond</hi> of <hi>Leverpool,</hi> who healed the Lad and ſaved my Purſe. He began with more general Evacuations, which proving leſs effectual, he fell to the purgation of his head, and by Gargariſms, Fumi<g ref="char:EOLhyphen"/>gations, Sternutaments and the like, he thinn'd, diſlodged and fetched away all that viſcous morbifick matter that had cauſed his ſad diſtemper. After ſome time his Father and kind Neighbours underſtanding that the Boy was Reſtor'd to perfect heath, came into our Pariſh with Joyfull hearts to fetch him home, and call'd at my houſe in their Return with thanks for my lucky determination of the matter.</p>
+                  <p>From that time till a few years ago, I never ſaw young Mr. <hi>Crook;</hi> when riding near his houſe towards <hi>Preſton,</hi> he call'd to me, treated me courteouſly, and gave me thanks for my paſt care of him. I was glad to ſee him a proper man, in good health, the Huſband of a good, Wife, the Fa<g ref="char:EOLhyphen"/>ther of pretty Children. And I am glad to hear he has the General Character of an ingenious, honeſt, wel-bred perſon Pardon his haſty Pen.</p>
+                  <closer>
+                     <signed>
+                        <hi>Who is SIR, Your affectioned Brother and Humble Servant</hi> Thomas Marſden.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb facs="tcp:107803:6"/>
+            <p>AS for what happened in Leigh Pariſh it is thus (as taken from the Teſtimony of thoſe that were well acquainted with it, and to whom the Perſon that was pretendedly poſſeſs't did afterwards make a confeſſion of the whole Intreague.)</p>
+            <p>One Mr. <hi>John Urmſton</hi> of the Higher Hall in <hi>Weſt-Liegh</hi> a Papiſt, Married with one Mrs. <hi>Southe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> a Proteſtant; the Condition of which Marriage was that he ſhould turn Proteſtant: which accordingly he ſeem<g ref="char:EOLhyphen"/>ingly did, and continued ſuch to the day of her death, On the day of her Burial he attended her Corps to the Church but pretending ſickneſs, he did not go in, nor did he ever after come at the Church.</p>
+            <p>His Children that he had by her continued Proteſtants, and his Daughter <hi>Elizabeth</hi> Married with one Mr. <hi>Ditchfield</hi> then a Proteſtant,; but he being a looſe man was (incompliance with his Father-in-Law) prevail'd with to turn Papiſt. He thereupon endeavoured to turn his Wife, and uſed all means imaginable but with no ſucceſs; till he, Mr. <hi>Urmſton</hi> and the Prieſt had perſwaded a Maid-ſervant one <hi>Alice Pennigton</hi> (whom they alſo had perverted to their own Religion) to counterfeit her ſelf Poſ<g ref="char:EOLhyphen"/>ſeſſed, by which artifice they ſucceeded.</p>
+            <p>This <hi>Alice Pennington</hi> was taught to diſſemble unnatural Fits, and ſhow a thouſand ſilly Actions, ſometimes ſhe ſtared, and froath'd, and made as if ſhe was not ſenſible of any thing; at other times ſhe would pretend violent Agonies, and cry out of a Witch, which ſhe could ſee hovering in an Egg ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, or the like, in ſuch or ſuch a place: ſome times ſhe raved, as if ſhe was Mad, and again at other times ſhe would ſix her teeth, and ſaint away, as if ſhe was quite dead. If any Proteſtant came near ſhe would foam, and ſpit at them to ſignifie her deteſtation of them; and in her moſt Ragcing Fits the Prieſt would call for one of Mr. <hi>Ditchfield's</hi> Sons, Who was then about Nine years of Age (and deſigned for a Prieſt as himſelf told me) and bid him take hold of her hand, which he accordingly did, and tho' others could not hold her, on the Prieſts ut<g ref="char:EOLhyphen"/>tering a few words, ſhe would be as Calm and Quiet as a Lamb; and when this Feat was play'd they always took care that the mother ſhould be by. The Prieſts from all parts flock'd to her in ſo much that there were at leaſt Twenty with her, but the Devil ſeem'd to fear none ſo much as one, whom Mr. <hi>Ditchfield</hi> thinks was Mr. <hi>Penket</hi> he that was ſeiz'd for the Popiſh Plot in <hi>King Charles the II</hi> time and ſent to Lancaſter. The Neighbours came frequently to ſee her, amongſt whom was one Mr. <hi>William Smith:</hi> a Good underſtanding Proteſtant, who daily viſited
+<pb facs="tcp:107803:6"/>her, and obſerved that her countenance never, chang'd, when ſhe fell in<g ref="char:EOLhyphen"/>to her Fits, this created in him a ſuſpicion that it was only a Popiſh Jug<g ref="char:EOLhyphen"/>gle to ſeduce Mrs. <hi>Ditchfield</hi> to the Popiſh party. He alſo obſerv'd, that Old Mr. <hi>Urmſton,</hi> whoſe deſire was to turn his Daughter Papiſt, would never go out of the Room, from the Maid, Whilſt any Proteſtant was there, ſo that he having a deſire to talk with the Maid, could not have an opportunity; finding therefore it would be no better, when Mr. <hi>Urmſtons</hi> back was turn'd (for he walk'd to and fro in the Room) he charg'd her for an Hypocrite, and told her this was only a Trick to turn her Miſtreſs Papiſt, tohereupon she ſmil'd, and flung the sheet (for she kept her bed) over her face; which fully confirmed him in his opinion, and obliged him to diſcover his thoughts to Mrs. <hi>Ditchfield,</hi> who ſeemed not willing at all to believe it: but it prov'd too true, for in a little time they gained upon her, and she began to tell Mr. <hi>Smith</hi> of the virtue of the Holy-Water, and what ſtrange effects it wrought on the Demoniack, of which she could deſire that he might be a Witneſs; ſo to the Maid they went, and she ſprinkled Holy-Water in her face, and the Maid ſpit at her, Oh (ſaith she) do you not ſee what a ſtrange power is in this Holy-Water? Yes (Saith Mr. <hi>Smith)</hi> and pray will you try it upon me; with ſome perſwaſions she was prevail'd with to make the Experiment on him, and she flung Holy-Water on his face, and he ſpit in her face; and she flung again, and he ſpit again, what do you mean ſaith she; O what a Strange power ſaith he, is there in this Holy-Water; but Dear Mrs. ſaith he, do you not plainly ſee that all this is only to delude and abuſe you, I am heartily ſorry for you; she made him to reply, for they had now prevail'd upon her.</p>
+            <p>A Day for Exorciſm was fixt upon, and Mr. <hi>Smith</hi> comes that morning to ſee the Maid, when he entred the houſe he heard a great noiſe in the chamber of things hurried to and fro, but he knows not what it meant. He deſired to ſee the Maid, and after ſome time Mr. <hi>Urmſton</hi> came to him, and told him that ſhe was a ſleep. I have often ſeen her wakeing, ſaith her and I deſire to ſee how ſhe is, when a ſleep. When the Old Gentleman ſaw he could not divert him, he pretended to go a little before, and he would call for Mr. <hi>Smith,</hi> this was to get the Prieſt out of the way, who was in ſo much haſte, that he left his Cant behind hom. Mr. <hi>Smith</hi> comes up, and finds the Maid, awake, and the Prieſt's Cane left behind him. What now ſaith he, hath he over run his ſtaff? What are all theſe Pictures for (for they had brought a great many into the Room) What muſt theſe pu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Devil out of the? at which the Maid ſmil'd as before, and flung the ſh<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> over her face.
+<pb facs="tcp:107803:7"/>But Mr. <hi>Urmſton</hi> could not bear ſuch diſcourſe which created a Quar<g ref="char:EOLhyphen"/>rell betwixt them, and occaſion'd Mr. <hi>Smith</hi> to leave both the Room, and the Houſe.</p>
+            <p>When he was gone, the Exorciſm came on, of which I can give no exact Account, very few being ſuffered to be preſent. I cannot there<g ref="char:EOLhyphen"/>fore learn, whether they asked any Queſtions about Religion as the Prteſts with us did; only the Maid amidſt her Rambling talk, made uſe of her own tongue; for one <hi>Elizabeth Hilton</hi> a Proteſtant then preſent, being ask't by the then Vicar of <hi>Leigh;</hi> whether a ſpirit ſpake within the pretended Demoniack, or no? ſhe ſaid, no: for ſhe ſpake as I do. The name of the Devil was Declared to be <hi>Sturdy,</hi> and the ſign of his departure was to have been a Quarrel taken away with him out of the window, but the Devil would not conſent to that; ſo the Devil and Prieſt agreed, that the ſign ſhould be a Box on the Ear given to the Prieſt, which at the appointed minute was Executed by the Maids hand.</p>
+            <p>
+               <g ref="char:V">Ʋ</g>pon this Mrs. <hi>Ditchfield</hi> turn'd Papiſt, but never after wore the ſame countenance that ſhe had before; she looked like another woman, as ſhe had got another Religion, and could never well face a Proteſtant. Her troubles were augmented in that it begun to be whiſpered that the Maid would confeſs the Juggle, and how ſhe was hired by her Maſter and the Prieſt, to act this Scene. This is thought to ſhorten Mrs. <hi>Ditchfields</hi> days, for ſhe was buryed <hi>Auguſt 15. 1673.</hi> as ap<g ref="char:EOLhyphen"/>pears by the Regiſter of <hi>Leigh,</hi> and this Exorciſm happned not much above Two years before. Her Remorſe increaſed, for that the Maid was ſent away to <hi>New-England,</hi> decoy'd, as is ſuppos'd, by the Prieſt to <hi>Leverpool,</hi> and ſhip'd-off thence. In <hi>New-England</hi> ſhe Married one Mr. <hi>Sworton</hi> a Miniſter there; and whether confeſſing the Truth there to him, and advis'd by him, or no; I know not: but ſhe return'd again into England, acknowledged the whole Intreague, and that there was nothing in it at all but Trick and Diſſimulation.</p>
+            <p>Mrs. <hi>Ditchfield</hi> never endeavoured to turn her Children. The Heir is, and (as I am told) always was a Proteſtant: as for the reſt, tho they were conſtrained to go to Maſs to pleaſe their Grandfather; yet they are at this day all Proteſtants, even he, that was deſigned for a Prieſt; from whoſe Teſtimony joyned with ſome others herein named, I have compi<g ref="char:EOLhyphen"/>led this Narrative.</p>
+            <p>Theſe are the little fetches of the Romiſh Emiſſaries, which are the great<g ref="char:EOLhyphen"/>eſt Scandal and Injury to Religion that the Wit of Hell it ſelf can contrive, <hi>The Greateſt Scandal,</hi> for can any one take a more effectual way to
+<pb facs="tcp:107803:7"/>expoſe it, and its Anthor to the Contempt of Libertines and A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heiſts, than to be ſound Guilty of ſuch a Notorious piece of Prieſt-Craft a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this is.</p>
+            <p>
+               <hi>The Greateſt Injury,</hi> for how juſtly may the Miracles of Chriſt and his Apoſtles (on which Chriſtianity is founded) be brought into ſuſpicion, when men diſcover the works of their Diſciples, who pretend to the ſame Power with them, to be nothing elſe but ſlight Leger-de<g ref="char:EOLhyphen"/>main.</p>
+            <p>Thus the Wounds which Religion (like her Maſter) receives, are in the Houſe of her Friends. But I muſt contract theſe Lamentations, leſt the Porch ſhould grow too Sumptuous for the Fabrick.</p>
+            <p>Nothing now remains unleſs your Lordſhip deſire to know what ſucceſs this Pious Fraud met with amongſt us; and may ſuch Prieſt-crafts never meet with better; for like to Strong Phyſick it wrought the contrary way, and the Prieſts began to find themſelves the Looſers: Their own Party, and the Demoniacks neareſt Relations could not but take notice of the Diſſention amongſt the Prieſts about the Operation, when they found it unſucceſsful; and ſome of them (as I am told) ingeniouſly confeſſed that they do not believe that the Perſon was poſſeſt.</p>
+            <p>I was not, ſometime ſince without ſome hope of gaining the Demoniack himſelf, for ſome of his Friends ſent to me, to beg the favour that he might pay me a viſit. Whether he was at home then or no; I know not: Yet by the Meſſengers diſcourſe I conceived that he was. Tho ſince I under<g ref="char:EOLhyphen"/>ſtand that his Mother Weeps and Cries, Complains for the want of her, Son, and ſaith, ſhe knows not where he is. Whether ſhe be ſincere in it, or no; I cannot tell; for by ſome Rumours I have lately heard, I have cauſe to ſuſpect her. But if the Prieſts be jealous of his Tongue, no doubt, but they will ſerve him as they did the Maid in the foregoing Narrative.</p>
+            <p>Such Scandalous Abuſes of Religion as theſe are, as they create us Sorrow, ſo deſerve our Prayers; and therefore that the God of Truth would in mercy open the eyes of the Blind, that they may all come unto the knowledge of the Truth, is the Earneſt Prayer of</p>
+            <closer>
+               <signed>
+                  <hi>My Lod, Your Lordſhips moſt Humble and Dutiful Servant and Curate</hi> ZACH. TAYLOR.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:107803:8"/>
+            <pb n="1" facs="tcp:107803:8"/>
+            <head>THE DEVIL TURNED CASUIST: OR THE Cheats of ROME, &amp;c.</head>
+            <p>THE Papiſts having lately loſt in this Pariſh ſome of their Party, who happily turn'd to the Proteſtant truth; and finding others ſo unſteady that they were jealous of looſing them alſo; began to think it neceſſary to uſe their utmoſt skill, to retain thoſe they were doubtful of; and if poſſible (that they might be even with us) gain ſome Proſelytes to their Communion. Hereupon they reſolve upon a known Feat of Activity, and (inſtead of better friends) call the Devil to their aſſiſtance. To this end, one <hi>Tho.
+<pb n="2" facs="tcp:107803:9"/>Aſ<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of <hi>Wigan,</hi> a Weaver, was pretend<g ref="char:EOLhyphen"/>ed to be poſſeſſed the occaſion of which is as fooliſh as it is un<g ref="char:EOLhyphen"/>chriſtian; for they ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad abroad a rumour as if he was bewithed by a neighbouring old Man, that he had diſobliged, and whom they would have the world believe to be a Wizard. And now they prepare themſelves for the Game, and tho I cannot learn that this <hi>Aſhton</hi> had either any of thoſe Frantick Symptoms, or <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eger-de-main</hi> Tricks that their Demoniacks are uſually taught to play, yet having concluded of a Gambol to end <hi>Chriſtmas</hi> with, to work they go: And <hi>January</hi> the 17th 1695/6. being Saint <hi>An<g ref="char:EOLhyphen"/>thonies</hi> Day, was fixt upon for the day of the Exorciſm. Accor<g ref="char:EOLhyphen"/>dingly Four Prieſts, Mr. <hi>Brooks,</hi> the Operator in Chief, Mr. <hi>Shimar,</hi> Mr. <hi>Kennel,</hi> and another whoſe name I cannot yet learn, met at the Houſe of <hi>Thomas Pennington</hi> in <hi>Orrel,</hi> in the Pariſh of <hi>Wigan,</hi> and County of <hi>Lancaſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> where a great Concourſe of Peo<g ref="char:EOLhyphen"/>ple, Proteſtants as well as Papiſts were gathered together to ſee this mighty Feat.</p>
+            <p>At Nine of the Clock in the Morning the Scene was to be o<g ref="char:EOLhyphen"/>pened, which begun with a Speech made by Mr. <hi>Brooks</hi> the Holder<g ref="char:EOLhyphen"/>forth, wherein he told the people, <hi>that he had offered up his Prayers to God that morning with relation to the work he was now going to undertake,
+<note place="margin">This is nothing but a Sanctifud and holy Cheat.</note> that he hoped Chriſt had heard his prayers, and he did not doubt but to be Maſter of the Devil by two of the Clock in the Afternoon.</hi>
+            </p>
+            <p>He admoniſhed the people alſo <hi>to have Faith and believe that he was able to do that Great Work,
+<note place="margin">Thus would he prein<g ref="char:EOLhyphen"/>gage the peoples ſaith, and get then, to mort<g ref="char:EOLhyphen"/>gage it unto his ſo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</note>for if they did not believe, it would be very hard indeed for him to do it,</hi> nevertheleſs he was able to do it notwith<g ref="char:EOLhyphen"/>ſtanding their Infidelity.</p>
+            <p>Then the Demoniack was brought before the Altar <hi>(which was new van <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for this ſame purpoſe, for they had bought a new Altar<g ref="char:EOLhyphen"/>piece of White-Sattin, and trim'd it up with two Fringes, the one deep<g ref="char:EOLhyphen"/>er than the other, to grace their Show)</hi> and the Prieſt turn'd his Stole twice or thrice about the Demoniacks neck, upon which the Demoniack asked if he meant to hang him, but I cannot learn the Prieſts anſwer. The operation now immediately began, and <hi>the
+<pb n="3" facs="tcp:107803:9"/>people were commanded to kneel, and pray to Saint</hi> Anthony, <hi>and the Mother of God.
+<note place="margin">
+                     <hi>I before have told you it was St.</hi> An<g ref="char:EOLhyphen"/>thonies <hi>day which in<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>reſted him in the ſport.</hi>
+                  </note> And the Prieſts were ever and anon at it, Mother of God help us, pray for us! Good St.</hi> Anthony <hi>pray for us.</hi> Here the young Prieſt, who knew not the name of the man Poſſeſſed, any more than I know his, ſteps to one of the Company (who chanced to be a Proteſtant) and ask'd what the Demoniacks Chriſtian name was, who told him it was <hi>Thomas,</hi> upon which he falls tooth and nail to work, Good St. <hi>Thomas</hi> pray for us! Good St. <hi>Thomas</hi> pray for us, <hi>&amp;c.</hi> expecting St. <hi>Thomas</hi> would be civil to his nameſake.</p>
+            <p>Thus they continued, till they brought the Devil to his Tongue,
+<note place="margin">Here you muſt once for all be adviſed, that when the Demoniack ſpoke, he made uſe of his own Lips and Tongue ſo that he was no Py<g ref="char:EOLhyphen"/>thoniſt: nor had they skill, or not time, to teach him the knack of ſpeaking out of his Belly.</note> and then it was demanded.</p>
+            <p>
+               <hi>For what cavſe he did enter and afflict that ſoul of Chriſt? Was it for Envy?</hi> The Devil was loath to ſpeak, having learnt from a Boy witty on his Horn book, that if he ſaid <hi>A,</hi> they would make him ſay <hi>B,</hi> and ſo on to the end of the Chapter: But the Prieſt Ad jured him to declare, and at length he mum<g ref="char:EOLhyphen"/>bled out, <hi>No. Was it for Pride?</hi> and ſo on through the Seaven Deadly Sins: The De<g ref="char:EOLhyphen"/>vil was Gruff, but with much threatning they ſtill made him ſpeak, and his anſwer continued to be <hi>No.</hi> The Prieſt run over a Bead-Roll of Vices, and the Devil ſtill was in the Negative. At length the Prieſt ask'd him, <hi>was it for Deſpair?</hi> Here he begun to be Reſtive and would not have replied, but by the the vertue of Holy-water, and hard Words, he was obliged to confeſs that it was for Deſpair.
+<note place="margin">It ſeems as if the De<g ref="char:EOLhyphen"/>vil and the Prieſt had one and the ſame inte<g ref="char:EOLhyphen"/>reſt, and that makes them to be thus concern<g ref="char:EOLhyphen"/>ed for each other.</note> 
+               <hi>Deſpair ſaith the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rieſt? Of what didſt thou Deſpair? Why, ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th the Devil, I did deſpair, becauſe I thought the Prieſts were falling, and going down, and if they fall (adds he) I ſhall fall alſo.</hi> Here<g ref="char:EOLhyphen"/>upon he was declared to he a Deſpairing Devil.</p>
+            <pb n="4" facs="tcp:107803:10"/>
+            <p>Then the Prieſt wanted to know, what the Devils name was (and though he betraies his skill in that Queſtion, for a Great Man of their own Church doth diſwade from it, by aſſuring him, that <hi>neither Angels <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Devils have any Proper names,
+<note place="margin">Sciendum eſt Ange<g ref="char:EOLhyphen"/>los &amp; Doemones non habere propria nomina, quibus tanquam voca<g ref="char:EOLhyphen"/>bulis inter ſe diſtin<g ref="char:EOLhyphen"/>guantur, cùm ſint in<g ref="char:EOLhyphen"/>corporei. — Sed nomen Angeli, Proprietas quae<g ref="char:EOLhyphen"/>dam ejus eſt, qua ab aliis diſtinguitur — Cum doemones interro<g ref="char:EOLhyphen"/>gati ab Exorciſta de no<g ref="char:EOLhyphen"/>mine, reſpondent no<g ref="char:EOLhyphen"/>mina quaedam Barbara, incognita, nihil ſignifi<g ref="char:EOLhyphen"/>cantia; per hoc ho<g ref="char:EOLhyphen"/>minibus illudunt, qui po<g ref="char:EOLhyphen"/>teſtatis ſuae limites egre diuntur, quaerentes quod non oportet. <hi>Eſtius An. Aur. in Evang. Sec. Mar. c.</hi> 5.</note> but are diſtinguiſhed from one ano<g ref="char:EOLhyphen"/>ther by their Qualities. And that therefore Devils, when they are examined by Ex<g ref="char:EOLhyphen"/>orciſts as to their name, and give in ſome inſignificant, or uncouth name, do only im<g ref="char:EOLhyphen"/>poſe upon men that have tranſgreſſed the bounds of their Authority, and inquire into things that they ought not.</hi> Yet his name he would know, and after ſome ſeeming averſion, he was pleaſed to tell him that his name was <hi>Loll.</hi> Now the Reader is here to know, that for all this formality, the Devils name was no Secret: <hi>For a neighbouring Juſtice of the Peace, doth aſſure me, that he was told ſix Weeks or two Months before the Farce was acted, that a Devil was to be caſt out in our Pariſh, and that his name was to be</hi> Loll: by which you may underſtand they had time enough to provide Goſſips for him: but the whim of the name made him then give no cre<g ref="char:EOLhyphen"/>dit to the information.</p>
+            <p>When they had f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>und which of the Devils it was they had to deal with; <hi>no doubt but a friend!</hi> The Proteſtants are deſired to attend, that they, I ſuppoſe, may be informed of the truth of ſome new coin'd Articles of Faith from him that was the Author of them. And becauſe the Prieſt perceived ſome of them to be afraid at the Demoniacks roaring, foaming, ſlavering, <hi>&amp;c.</hi> he bid them not to fear for the Devil ſhould not hurt them; <hi rend="margQuotes">He had him at command, as they ſhould ſee: he would command him to kiſs his foot (it is a wonder, that in conformity to his Ma<g ref="char:EOLhyphen"/>ſters
+<pb n="5" facs="tcp:107803:10"/>Greatneſs it was not his Toe) and he ſhould obey.
+<note place="margin">By this paſſage one would think the Devil had loſt his Pride, and the Prieſt had found it.</note> Accordingly he gave the word of command, and the Devil kiſt the ſhadow of his Shoe-tie; and was not this a very humble Devil.</hi>
+            </p>
+            <p>Then they proceeded to examine him as to his Creed; as if they meant to know what Religion he was of; and you need not in the leaſt doubt, but the Devil is a good <hi>Roman Catholick:</hi> for they ask'd him, <hi>if there were not a Purgatory? Speak Devil I command thee,</hi> ſaith the Prieſt, <hi>is there not a Purga<g ref="char:EOLhyphen"/>tory?</hi> and the Devil inform'd him that there was. Very well! <hi>But is it not neceſſary to pray for ſouls that are in Purgatory,
+<note place="margin">
+                     <hi>Now had this Spark of Divinity conſulted his own reaſon, that would have told him, that it was not proper to expect the truth of God from the mouth of the Devil; or had he conſulted his own School-men, he might have learn'd, that it was unlawful to adjure the Devil, in order to learn ſomethings from him, for</hi> Aquinas <hi>from Saint</hi> Chryſoſtom <hi>aſſures us, that we ought not to believe the Devil, though he deciare nothing but the truth.</hi> Salutiferum nobis dogma datur, ne credamus Doemonibus, quan<g ref="char:EOLhyphen"/>tumcunque denuntient veritatem. Aquin. 2da. 2dae. Qu. 90. Ar. 2.</note> that they may be de<g ref="char:EOLhyphen"/>livered thence?</hi> And the Devil and Prieſt agreed that it was. Thus underſtand<g ref="char:EOLhyphen"/>ing one another, and agreeing in the Fundamental Articles of Faith (for you read that <hi>the Devils believe.</hi> Jam. 2.19. though it is an uncomfortable faith of theirs, for it makes them trem<g ref="char:EOLhyphen"/>ble) he proceeded to other matters of Doctrine, and always had the ſatisfa<g ref="char:EOLhyphen"/>ction to find the Devil of his own opinion.</p>
+            <p>Amongſt other Queries he demands to know, <hi>whether it was not neceſſary to pray to Saints and Angels?</hi> and adjured the Devil to tell the truth, and becauſe he found him ſometimes ſturdy and a naughty Boy, he and his Partners would Box him about the Ears, <hi>ſometimes all four at once (for the Devil being an haughty ſpirit cannot (as we are told) brook ſuch affronts)</hi> and the Devil thus chaſtis'd, acknowledged that it was his curioſity then led him
+<pb n="6" facs="tcp:107803:11"/>to inquire,
+<note place="margin">
+                  <p>
+                     <hi>Now it is ſo long, ſince the Devil was in that happy place, where Saints and Angles are, that a man may very rea<g ref="char:EOLhyphen"/>ſonably ſuſpect his infor<g ref="char:EOLhyphen"/>mation, eſpecially conſi<g ref="char:EOLhyphen"/>dering his fate, which made him incapable to reſolve the Queſtion.</hi>
+                  </p>
+                  <p>
+                     <hi>I wonder how the Church of</hi> Rome <hi>will requite the Devil for his kind vouch<g ref="char:EOLhyphen"/>ing theſe Superſtitious Doctrines.</hi>
+                  </p>
+               </note> 
+               <hi>whether Saints and Angels did not hear our Prayers?</hi> And the Devil remembring very well that he himſelf was once an Angel in Heaven, aſſured him that they did, though he ſtaid not ſo long there, as to hear any.</p>
+            <p>They further inquired, <hi>if it was not lawful to worſhip Pictures and Images?</hi> And the De<g ref="char:EOLhyphen"/>vil could diſcorn no hurt at all in a man's humbling himſelf before thoſe pretty play things. They then would know, <hi>whether any Proteſtant, Presbyterian,</hi> &amp;c. <hi>could forgive ſins?</hi> and the Devil being a good Caſuiſt, told them, they could not. It was then demanded, <hi>whether the Prieſts of the Church of</hi> Rome, <hi>could not for<g ref="char:EOLhyphen"/>give ſins?</hi> And what cannot they do, that can turn a Wafer into Fleſh and Blood! yes they could forgive ſins. And is not this a good Chatitable Devil that directs people whither to go for the Remiſſion of their ſins; but at the ſame time he is a blockiſh Devil to betray ſuch a ſecret as is enough to ruin his Kingdom.</p>
+            <p>But they proceed, and the Devil muſt tell them, <hi>whether the Prieſts of the Church of</hi> Rome <hi>have not power to eaſt out Devils?</hi> And to his ſad grief and pain he felt they had. Be it ſo, they make but ill improvement of this Talent, for the Devil, as you will find, was too hard for them, and maugre their Ex<g ref="char:EOLhyphen"/>orciſms, kept his Burrough. Then they deſired to know, <hi>whe<g ref="char:EOLhyphen"/>ther any Proteſtant or Presbyterian,</hi> &amp;c. <hi>Miniſter could caſt out De<g ref="char:EOLhyphen"/>vils?</hi> And if by caſting out Devils they mean ſuch juggling knacks, as the Popiſh Exorciſts are known to uſe, the Devil here bad faireſt at the Truth, when he ſaid they could not For the Clergy of the Church of <hi>England</hi> underſtand the nature of Chriſts Kingdom, and the operation of his Grace, which effe<g ref="char:EOLhyphen"/>ctually doth caſt Devils and all evil out of the hearts, and ſouls of men far better than to expoſe God and Religion to the Buffoonry of Atheiſts, by pretending to ſuch Mountebank tricks, as are an infamous ſcandal to both. As for Diſſenters, let them anſwer for themſelves, for though their warm zeal be<g ref="char:EOLhyphen"/>trays
+<pb n="7" facs="tcp:107803:11"/>them too oft to a ſuperſtitious Credulity; yet I think they are generally too wiſe to be engaged in ſuch Artifices. And though muſt confeſs I hear, that ſome of them do intend to bleſs the world, with the Narrative of a late Miracle of this nature, which they wrought; yet if the preſence of a neighbouring Juſtice of Peace which as I hear ſtruck their Affidavit-men dumb for that time, hath not convinced them of their Vanity: I wiſh them to conſider what they are doing, and ſave ſome of us the la<g ref="char:EOLhyphen"/>bour of ſpending time and Paper in Animadverſions on their Folly. But to return, this was a tedious way of proceeding by particulars, to compromize therefore all in one, he fairly ask'd,
+<note place="margin">The Prieſts uſed to teach the people that they ought to believe as the Church believed; but now it ſeems they have changed their note, and would have them believe, as the Devil be<g ref="char:EOLhyphen"/>lives.</note> 
+               <hi>whether Salvation was to be had in any Church, but only that of</hi> Rome? And the Devil very offici<g ref="char:EOLhyphen"/>ouſly told him, there was not. Right faith the Prieſt, I know that as well as thou; <hi>why then diſt thou ask me ſaith the Devil. Only ſaith the Prieſt that I might make the to ſatisfie theſe people of this truth.</hi>
+            </p>
+            <p>And having made ſuch powerful diſcoveries as theſe are by the Ingenious Confeſſion of a knowing Devil, Mr. <hi>Books</hi> deſired, that <hi>William Winſtanl's</hi> Maid might be ſent for, which according<g ref="char:EOLhyphen"/>ly was done; She is a Proteſtant, but her Maſter is a Papiſt, and when ſhe came, the Devil beat about him, froth'd and foam'd, and cryed out, Art thou come? Art thou come? And then the ſame queſtion was put again, and met with the ſame anſwer; as it was as oft as any Proteſtant, or any that they ſuſpected in dan<g ref="char:EOLhyphen"/>ger of turning Proteſtants did appear. For when another per<g ref="char:EOLhyphen"/>ſon came in, whom not without reaſon they were jealous of, as being married to a good ingenious Man that is a Proteſtant, and one that hath baffled Mr. <hi>Brooks</hi> the Chief Engineer in an Argument about Purgatory, the Demoniack ſtares at her, and roars out, i'le have thee,
+<note place="margin">And is not this fair warning to be given by a Devil.</note> I'le have thee. If thou turn Proteſtant, as thy Husband would have thee, there is no hopes of Salvation.</p>
+            <pb n="8" facs="tcp:107803:12"/>
+            <p>The Children of <hi>Robert Topping</hi> an ho<g ref="char:EOLhyphen"/>neſt poor Neighbour,
+<note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon this he ſent to de<g ref="char:EOLhyphen"/>ſire us to give him the Communion according to the Church of</hi> England, <hi>and is ſince departed with our prayers in the ſame Faith.</hi>
+               </note> were alſo called to come near, and the ſame queſtion was again ask'd; and the Prieſt declaim'd up<g ref="char:EOLhyphen"/>on it, and told them that their Father was ſickly and weak, and charg'd them that they ſhould tell him in what danger he was, if he continued to dye in that Faith, wherein he had lived.</p>
+            <p>Now when the Devil had done all the Service for them that he could, had confirm'd their new Creed by the Truth of his own Confeſſion, and had damn'd every body, but thoſe that believed as he and the Prieſt did; The Prieſt (like an unkind Maſter to a Truſty Servant) would needs turn him out of Doors, command<g ref="char:EOLhyphen"/>ed him to be gone, and threatned what he would do, if he of<g ref="char:EOLhyphen"/>fered to ſtay; giving him a parcel of very foul words, ſtamp<g ref="char:EOLhyphen"/>ing with his feet, and calling him, as his Authors teach him,
+<note place="margin">Mengus <hi>indeed and the Scriblers of Exorciſms teach their Prieſts this Biltings-gate Language. But how unlike is this to our Saviours ſpeech, or the Arch-Angels to the Devil, who in the Cauſe of God and his Saints, durſt not bring againſt the Devil any rail<g ref="char:EOLhyphen"/>ing accuſation, but only prayed, the Lord to re<g ref="char:EOLhyphen"/>buke him,</hi> Jud. v. 9.</note> all that was nought, an Infernal Dog, an Accurſed Devil, <hi>&amp;c.</hi> And here it was that he had a mind to give them a Touch of his Learning, and ſhew the Excellency of his Parts, and ſo he takes occaſion to tell them that the Devil was a Latin Devil, and that he underſtood Latin, for they ſhould hear he would ſpeak to him in Latin, and bid him put out his Tongue, and he ſhould obſerve him, ſo he learned ly beſpeaks him, <hi>Extende linguam Diabole, Put out thy tongue thou Devil,</hi> and the Demoniack, as became a diſcreet Pati<g ref="char:EOLhyphen"/>ent to a skillful Phyſitian, put out his Tongue,
+<note place="margin">Here you muſt obſerve that to diſcolour his tongue, they preſt it in his mouth, with their Thumbs (which perhaps had a Dy on them) and ſometimes nipt it.</note> which was ſomething of a blewiſh colour, and the Proteſtants were call'd on to ſee the Black Tongue of a curſed Devil. But here happned an unlucky blunder, for Mr. <hi>Skinner</hi> ſtand<g ref="char:EOLhyphen"/>ing a little on one ſide that he could not
+<pb n="9" facs="tcp:107803:12"/>well ſee his Tongue calls to him, <hi>Verte ad me, Turn towards me,</hi> but the blockiſh Devil (for ſo they commonly call'd the Demoniack) had either not learnt, or elſe he had forgot that Leſſon, ſo he put out his Tongue again, but did not turn to Mr. <hi>Skinner.</hi> However the Prieſt was not to take notice of the Error, ſo he cries out, It is well, It is well: But there chanced to be a Proteſtant youth there, that underſtood ſo much Latin as to diſcover the Knaviſh ignorance, as you will fur<g ref="char:EOLhyphen"/>ther gather from the following paſſage.</p>
+            <p>Mr. <hi>Brooks</hi> had (as you have heard) undertook to talk to the De<g ref="char:EOLhyphen"/>vil in Latin, and he was at it, <hi>Maledicte Diabole diſcede hinc, ad lo<g ref="char:EOLhyphen"/>cum maledicte Diabole,</hi> &amp;c. Thou curſed Devil depart hence, &amp;c. — At length out he comes with thou Infernal Toad, hereupon he re<g ref="char:EOLhyphen"/>collects himſelf of his promiſe, which was that he would talk to him in Latin, and he knew not what was Latin for a Toad, ſo he ſteps to Mr. <hi>Skinner,</hi> and ſays pray Mr. <hi>Skinner</hi> what is Latin for a Toad? He told him <hi>Bufo,</hi> then he rallied again, and aſſaulted the Devil, with an <hi>Infernalis Bufo diſcede hinc, ad locum Infernalis Bu<g ref="char:EOLhyphen"/>fo,</hi> Thou infernal Toad depart hence, <hi>&amp;c.</hi>
+            </p>
+            <p>However the Devil made no great haſte to be gone; but they con<g ref="char:EOLhyphen"/>tinued the operation, ever and anon demanding how long he would ſtay, and when he would go, <hi>&amp;c.</hi> At length the Devil told them roundly he would not go out before Dinner. Ay! ſayſt thou ſo, quoth Mr. <hi>Brooks.</hi> Thou wantedſt thy Breakfaſt, but a faith I will give thee, I will give thee thy Dinner: thou thoughteſt before with the Stole I would have hang'd thee, but now a faith I'le choak thee,
+<note place="margin">
+                  <hi>Pure Conjuration.</hi> Nu<g ref="char:EOLhyphen"/>mero Deus Impare Gau<g ref="char:EOLhyphen"/>det. <hi>Virg.</hi>
+               </note> here's a Doſe for thee. So he gave him five Spoonfuls of Holy-water. Here is one (ſaith he) for the honour of the Holy Trinity, an<g ref="char:EOLhyphen"/>other for the honour of the Bleſſed Virgin, another for the honour of St. <hi>Anthony,</hi> and here's two more for Charity. So the Devil roar'd moſt hideouſly; ay, ſaith the Prieſt, I'le ſcald thee out. When wilt thou be gone? I will go, ſaith he at two of the Clock. This gave the Prieſt a little ſatisfaction. And after ſome time he demanded what ſhould be the ſign of his departure. Why when I go out, ſaith he, I will take away a Quarrel of Glaſs out of the Window. Then a diſ<g ref="char:EOLhyphen"/>pute aroſe betwixt them, which Quarrel he was to take. But the Prieſt like a man of Reſolution determined, ſuch an one ſhould be the Quarrel, and accordingly he chalked it out.</p>
+            <pb n="10" facs="tcp:107803:13"/>
+            <p>When two of the Clock drew near, the Prieſt charged him to be gone, reminding him that his hour was at hand. But the Devil beg'd for longer time, and deſired to ſtay till morning. But the Prieſt peremptorily commanded him to vaniſh; and the Devil in abun<g ref="char:EOLhyphen"/>dance of ſuſpence cries, I doubt I muſt go out! I doubt I muſt go out! Which the Prieſt prudently catching at demands with an aſ<g ref="char:EOLhyphen"/>ſuming Authority, Doſt thou not feel the Spirit of God preſſing thee this moment to go out?
+<note place="margin">
+                  <hi>Mr.</hi> Brooks <hi>would do well here to conſider, whe<g ref="char:EOLhyphen"/>ther this ſolemn attributing to the ſpirit of God, what ſeems (and perhaps he knows) to be nothing but the confederacy of man, be not a blaſpheming of of that ſpirit.</hi> Numquid Dens indiget veſtro men<g ref="char:EOLhyphen"/>dacio, ut pro illo loqua<g ref="char:EOLhyphen"/>mini dolos. <hi>Job.</hi> 13.7.</note> The Devil was loth to confeſs it, but at length acknowledg'd that he did. The Prieſt therefore repeats his adjurati<g ref="char:EOLhyphen"/>ons, and adds thereto the virtue of his promiſe, which he very much inſiſted on and ſhewed him a Watch that it was full two of the Clock; and when the Devil ſaw the Watch, he bellowed out moſt ter<g ref="char:EOLhyphen"/>ribly, as all along he had done, even to affright the Beholders, but more eſpecial<g ref="char:EOLhyphen"/>ly when a Cruciſix was applied to him, which they often made uſe of, and ſeemed ſometimes to make Characters, or write ſomething with it on his forehead.</p>
+            <p>Notwithſtanding all this, the Devil had no great mind to be walk<g ref="char:EOLhyphen"/>ing, ſo they plied him again and again with Holy-water inwardly and outwardly, which made him roar with a witneſs, and complain that he was in as much torment, as if he was in Hell it ſelf;
+<note place="margin">
+                  <hi>This is a likely ſtory when compared with what <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, for Lyars ſhould have good memories.</hi> pag. 12.</note> and he adds, that had he known how they would have uſed him, he would not have ſtayed there ſo long. <hi>Why then ſaith the Prieſt, doſt thou not go out? And he told him that he would but ſtay one quarter of an hour longer.</hi> Up<g ref="char:EOLhyphen"/>on this a debate aroſe amongſt the Prieſts, whether this ſavour was to be allowed the Devil or denyed him. Mr. <hi>Kennel</hi> out of juſt compaſſion, I ſuppoſe, to the Demoniack, was againſt allowing him a longer term: but Mr. <hi>Brooks</hi> the Maſter Workman inclined rather to be more civil to the I evil, and gave him the ſpace of a quarter of an hour to provide himſelf for his journey, which as you will
+<pb n="11" facs="tcp:107803:13"/>hear in the cloſe, was unhappy for the poor Demoniack: Tho Mr.
+<note place="margin">
+                  <hi>By this one would ſupſect St.</hi> Peter<hi>'s under officers to have forſook their Maſters trade, and to be turn'd fiſhers of Devils inſtead of fiſhers of Men.</hi>
+               </note> 
+               <hi>Brooks</hi> confi<g ref="char:EOLhyphen"/>dent of ſucceſs cries out, he is rumbling in him like an Eel in a puddle of water, b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e fetch him out of him a faith. Which was more than he could do; for the quarter being ſpe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t they remind him of his promiſe, and charge him to be gone, they adjure and threaten him, and for fear all ſhould not do, they adviſe him to be gone and tell him, it was for his advantage to be gone. <hi>For doſt thou not know, ſaith Mr.</hi> Brooks <hi>with an aſſumed Gri<g ref="char:EOLhyphen"/>mace, That the longer thou ſtayeſt here, thou converteſt ſo many more ſouls to the Catholick Faith? yes, ſaith the Devil,
+<note place="margin">Hold Mr. Devil not too faſt: for ſome whom you thought you were ſecune of, have ſince been both with the Frieſt and me: and declare that this days folly hath convinced them more of the ſuperſtition of your ways, than all your ar<g ref="char:EOLhyphen"/>guments will be able to re<g ref="char:EOLhyphen"/>move.</note> I know that very well: Ah! I shall make a ſweet days work of it.</hi> And ſo taking into conſide<g ref="char:EOLhyphen"/>ration the ſerious admonition of his friend, be prepared himſelf as if he meant to make his <hi>Exit,</hi> in ſo much that Mr. <hi>Brooks</hi> preſuming on the victory, with an <hi>IO<g ref="char:EOLunhyphen"/>TKI<g ref="char:V">Ʋ</g>MPHE</hi> cries out, <hi>now he is going a faith, now he is taking wing, he ſtands apon his tiptoes,</hi> upon this all the people, eſpecially the Proteſtants caſt their eyes upon the Window, and the Quarrel out of which he was to go, and take it with him. But whether the peoples eyes being fixt upon the Quarrel might make them apprehenſive, that they would diſcover the Trick by diſcerning how the quarrel was conveyed away (for the Prieſts Elbows were often very near it: whether it was this or ſomething elſe I know not; but neither the Devil nor the quarrel went;
+<note place="margin">To underſtand this, you muſt know that the Devil is generally very unwilling to go out, unleſs he may take ſomething with him, and he is for a living Creature if he can get it.</note> for in<g ref="char:EOLhyphen"/>ſtead of that the Devil enters into a new parly with them, and will have more quarrels than one, or elſe he will not go out. But the Prieſt ſtuck cloſe to his word, and would allow him no more quarrels than one. So that the Devil finding it would be no better (with a ſigh I ſuppoſe) ſaith, Ah! this is but little towards what
+<pb n="12" facs="tcp:107803:14"/>I would have had<g ref="char:punc">▪</g> But the refuſal of this ſmall requeſt,
+<note place="margin">
+                  <hi>Betwixt</hi> 30 <hi>and</hi> 40 <hi>years ago I am told there was ſuch another Exorciſm as this, in the ſame place, for it is the Neſt of Papiſts. And when the Devil was to go out, he ſaid he would have a living ſoul with him, which frighted the poor People ſadly, and made them Sueat and Sigh, not knowing whom he would have. But the Prieſt manfully withſtood him, and would not ſuffer him to touch any Soul there. This was a little comfort to them. Then the Devil would have ſome other living Creature, a Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k or Hen,</hi> &amp;c. <hi>But the Prieſt thought that too good a Morſel for the Devil, and would not allow it him. In ſhort the Prieſt would allow him nothing but three broken pieces of a Tobaco-pipe, which he laid upon a Trencher on the Table, and when he went, he was to take them, as a ſign of his Departure. When the minute was at hand, the Prieſt makes a buſtle, and cries out now He comes, He comes, He comes,</hi> &amp;c. <hi>and by this means (which is right Leger-de-main) calls the Peoples eyes from off the Trencher to the Demoniack, and an hand came behind over the Table, and catch'd at the pieces of the Pipe, but unluckily got but two, the third ſlipping off the Trencher, which a Proteſtant took up. And when the Prieſt told them that they might know by what they ſaw that the Devil was gone out. Yes ſaith the Proteſtant perhaps he is, but he is bet<g ref="char:EOLhyphen"/>ter than his word, for he hath left one piece of his pipe behind him, and here it is. This I had from a neighbouring Clergy-man, who is Rector of the Pariſh where the perſon lived that took up the Pipe, and who had it from his own Mouth.</hi>
+               </note> put the Devil out of humour, and he began to be ſturdy, and would not wag; which put the Prieſt to inquire again the reaſon why he did not go. <hi>Why ſaith the Devil, doſt thou not think it better to be here than in Hell? To which Mr.</hi> Kennel <hi>anſwered (how truly judge you) No.</hi> We will call to our aſſiſtance 12.20. or 4<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Prieſts more, <hi>i.e.</hi> the <hi>Poſſe Co<g ref="char:EOLhyphen"/>mitatus</hi> of the Prieſt-hood, and we will Torment thee as ill as if thou waſt in Hell it ſelf. But the Devil like a cunning Fox ſtill kept his Burrough, and would not budge. Which made the Prieſt again de<g ref="char:EOLhyphen"/>mand, why wilt not thou keep thy pro<g ref="char:EOLhyphen"/>miſe (for they expect the Devil to be as good as his word) why doſt thou not go out. <hi>Why ſaith the Devil, doſt thou not know that the Devil is a Lyar. Oh! ſaith the Prieſt, is that the reaſon. What thou wilt not go out now that by this thy telling a Lye thou may'ſt make the Proteſtants believe, that all the reſt that thou haſt ſaid are Lies alſo,</hi>
+            </p>
+            <pb n="13" facs="tcp:107803:14"/>
+            <p>
+               <hi>Is this the Reaſon? yes ſaith the Devil it is. But ſaith the Prieſt,
+<note place="margin">This is an invincible ar<g ref="char:EOLhyphen"/>gument of the Colluſions betwixt Prieſt and Devil.</note> if any of them ſhould turn to be good Catholicks, would it not be againſt thy mind? yes ſaith the De<g ref="char:EOLhyphen"/>vil it would, for I care not how much com<g ref="char:EOLhyphen"/>pany I have.</hi> This parley made the Prieſt to ſlip the minute the De<g ref="char:EOLhyphen"/>vil had fixed for his departure; and the Prieſt and the Demoniack, being perhaps weary, one of them having kneeled, and the other having followed his work, and both of them having roared (for they were heard near a quarter of a mile from the houſe and it was hard to ſay whether Devil or Prieſt was lowder, thus having roared) five hours together; Mr. <hi>Skinner</hi> tells Mr. <hi>Brooks,</hi> you have given him too much time, we may as well go, for it ſeems the Devil had out witted them, and by gaining delays had raiſed new out works to defend his Hutt. But Mr. <hi>Brooks</hi> that he might diſ<g ref="char:EOLhyphen"/>guiſe the Baffle as well as he could, asked him, <hi>whether he ſtaid there that he might convert any Proteſtant to the Catholick Faith?</hi> And the Devil being willing to pleaſe him, and finding that he would be<g ref="char:EOLhyphen"/>lieve any thing that he ſaid, told him that he did. Hereupon Mr. <hi>Brooks</hi> took the opportunity to acquaint the Company that he had ſome friends about <hi>Ormskirk,</hi> &amp;c. that he intended to ſend for to ſee this wonder<g ref="char:EOLhyphen"/>ful work,
+<note place="margin">And no doubt but it muſt be pleaſant Entertain<g ref="char:EOLhyphen"/>ment for his friend to ſee the Devil baited.</note> and then he commanded the Devil to retire into the lower parts, and taking off the Stole, he beſpeaks the De<g ref="char:EOLhyphen"/>moniack to riſe up, by the name of <hi>Tho<g ref="char:EOLhyphen"/>mas Ashton,</hi> and enjoyned him to ſay five <hi>Ave Marias,</hi> and five <hi>Pater-noſters.</hi> So he began but he could not ſpeak plain, for the Devil as yet it ſeems ſtuck in his throat, the Prieſt therefore was obliged to renew his charge unto the Devil, go down Sirrah, ſaith he, ſo the Demoniack ſwallowed him cleaverly, and then he ſpeak plain, and the Prieſt having thus laid the Devil he hung out the Flag of Defiance, and challenged any proteſtant whomſoever to raiſe him again, and make him ſpeak.</p>
+            <p>I had almoſt forgot to tell you that here again Mr. <hi>Brooks</hi> charged the Demoniack to kiſs the Prieſts feet, which as you have heard were four. Three of them being together he went and reverently paid his Salute, but Mr. <hi>Brooks</hi> told him there was a fourth; whom he was to ſeek out, and kiſs his feet alſo. So about he goes, and
+<pb n="14" facs="tcp:107803:15"/>the Devil either having a good Noſe, or the Prieſts Toes a ſtrong ſcent, he quickly ſmelt him out, did obeiſance down to the ground, and adored his Sandal.</p>
+            <p>And now the laſt Scene being over, Mr. <hi>Prooks</hi> by way of Epilogue,
+<note place="margin">
+                  <hi>Query, whether this Ho<g ref="char:EOLhyphen"/>mage of the Devil to the Prieſt, be not in alluſion to that in the Pſalmiſt,</hi> Kiſs the Son leaſt he be angry (<hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſal.</hi> 2.12.) <hi>or in imita<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#UOM" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap> that</hi> Mary, <hi>that kiſ<g ref="char:EOLhyphen"/>ſed our Saviours feet.</hi> (Luke 7.38.) <hi>If the firſt, 'tis groſs Idolatry; for to kiſs there, is to worſhip. If the laſt, 'tis vile, Hypocriſie, for for what ſhe did was to expreſs the ſincerity of her Repentance; but what they do, is only gratifie the Prieſts Ambition.</hi>
+               </note> made another harangue unto the people, the ſubſtance of which was to ſignifie his hopes, that that days work would be a means to the Converſion of many then preſent, and ſave their Souls.</p>
+            <p>And now you ſee the ſecret is out: <hi rend="margQuotes">They have made a Pupet-Show of Reli<g ref="char:EOLhyphen"/>gion, produced God and the Devil, like St. <hi>George</hi> and the <hi>Dragon,</hi> upon the Stage, and have baſely betrayed the cauſe of God, and given the advantage to the Devil; for you find that notwithſtand<g ref="char:EOLhyphen"/>ing the aſſurance the Prieſt pretended to, from Chriſt's hearing his prayers; and (what perhaps he more relied on) the promiſe that the Devil gave him more than once to depart:</hi> The Devil keeps his hold, and all that he can do, is to get him to lie ſnug in ſome private corner; till he be again brought forth, like <hi>Sampſon,</hi> to make ſport unto the peo<g ref="char:EOLhyphen"/>ple for the honour of their Dagon. But for all the Prieſts hopes, the laſt Act, wherein the Devil got the better of him (and made him either to believe a Lye, when he believed his word, promi<g ref="char:EOLhyphen"/>ſing to go out; or to belye the Devil, telling the people that he had promiſed to go out at ſuch an hour, when he had not done it) hath altogether ſpoiled his Harveſt, for it hath catc ed Mr. Prieſt within the Horns of this <hi>Dilemma.</hi>
+            </p>
+            <p>
+               <hi>Either the Prieſt would have caſt out the Devil, and could not; or elſe he could have caſt out the Devil and would not.</hi>
+            </p>
+            <p>
+               <hi>If he would have caſt out the Devil, and could not; he hath diſcovered his own weakneſs, and that he hath no power over the Devil, nor that God was preſent with him in his undertaking, but for that he believed the Devil, hath given him up to believe a lye, as is the doom of ſuch Bigots.</hi> (2 Theſ. 2.9.10.)</p>
+            <pb n="15" facs="tcp:107803:15"/>
+            <p>
+               <hi>If he could have caſt out the Devil and would not; he diſcovers his own Villany, who perfidiouſly ſuffers the Devil to Tyrannize over the perſons of Chriſtians, when it is in his power to relieve them.</hi>
+            </p>
+            <p>When the Farce was over Mr. <hi>Skinner</hi> askd the Demoniack how he did? And he ſaid, pretty well. Are you not hungry <hi>Thomas,</hi> ſaith he, yes ſaith <hi>Thomas,</hi> and dry too. And well he might, by the account you have read. So the people with drew, and left them to their Pontifical repaſt; whilſt the hearts of good men bleed to ſee Religion expoſed thus to the juſt Exceptions of Libertines and Atheiſts; and Chriſtianity abuſed by thoſe, who labour to make the world believe that they are the only Proprietors of it. But as we are bound to pity, and pray for them that are Guided (I ought to have ſaid miſguided) by ſuch wilfully blindfolded Guides; So acquieſcing in God's Providence, <hi>we muſt Remember, that he hath thought it neceſſary that offences should come,</hi> Mat. 18.7. <hi>and it concerns them to remember that there is a Woe denounced againſt that man, by whom the offence doth come.</hi>
+            </p>
+            <p>On <hi>Monday</hi> following this Exploit, the General Quarter Seſſions was held at <hi>W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gan,</hi> at which time I acquainted the Juſtices of Peace, with what had paſſed, and got a Warrant to apprehend the Demoniack, that it might have been tried, whether had more power over the Devil, the Prieſts or Juſtice.</p>
+            <p>This (as I am told made the Prieſt to ſcamper, tho he was not in the leaſt affected by the Warrant, not being ſo much as named in it). But through a miſtake the Officers miſt their Prey, and we our Sport. However, this hath laid the Devil for the preſent, for I hear no more of him in our Neighbourhood, nor I believe ever ſhall.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
